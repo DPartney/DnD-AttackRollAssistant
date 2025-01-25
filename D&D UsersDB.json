@@ -6,6 +6,7 @@
         "AttacksPT": 1,
         "DamageDiceType": 8,
         "DamageDiceRollAmount": 1,
-        "CritMod": 19
+        "CritMod": 19,
+        "ActiveFeats": []
     }
 ]
